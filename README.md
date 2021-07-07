@@ -6,7 +6,7 @@ I am a computer science undergraduate and I am passionate about developing and e
 
 I have worked with renowned organizations for my internships such as Johns Hopkins University, MIT Media Lab, and University of Canterbury.
 
-Currently I am planning to apply for a Master's degree for fall 2022 and in the near future I am interested to do a PhD in the field of HCI or Robotics.
+Currently I am planning to apply for a Master's degree for fall 2022. In the near future I am interested to do a PhD in the field of HCI or Robotics.
 
 ### Found it interesting? Know more about me
 
