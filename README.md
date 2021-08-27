@@ -2,7 +2,7 @@
 
 ### About
 
-I am a computer science undergraduate and I am passionate about developing and evaluating new technologies using VR/AR. My career aspiration is to become an independent scientist. My research interest lies in the area of Human-Computer Interaction, Augmented Reality, Virtual Reality, Computer Graphics, and Robotics.
+I am a computer science undergraduate and I am passionate about developing and evaluating new technologies using VR/AR. My career aspiration is to become a research scientist. My research interest lies in the area of Human-Computer Interaction, Augmented Reality, Virtual Reality, Computer Graphics, and Robotics.
 
 I have worked with renowned organizations for my internships such as Johns Hopkins University, MIT Media Lab, and University of Canterbury.
 
