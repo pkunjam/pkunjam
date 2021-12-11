@@ -1,14 +1,14 @@
 <img src="https://github.com/pkunjam/pkunjam/blob/master/punit.jpg" width="800" />
 
-### About
+### About me
 
-I am a computer science undergraduate and I am passionate about developing and evaluating new technologies using VR/AR. My career aspiration is to become a research scientist. My research interest lies in the area of Human-Computer Interaction, Augmented Reality, Virtual Reality, Computer Graphics, and Robotics.
+I am a recent graduate with a bachelor’s degree in computer science and engineering from the International Institute of Information Technology, Naya Raipur, India. My research interests are primarily concerned with human-computer interaction (HCI) and focus on building novel immersive systems for the augmentation of brain function, improving people’s lives. I am also interested in developing surgical systems leveraging robotics and mixed reality technologies to provide surgeons with low-cost solutions for practicing surgical procedures in a virtual environment. I have worked with premier research institutions for my internships, such as **Johns Hopkins University (JHU), MIT Media Lab, and the University of Canterbury**. My research from MIT Media Lab and JHU has been published at prestigious venues, namely, **ACM SIGGRAPH and Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization**, received honorable mention and outstanding paper award.
 
-I have worked with renowned organizations for my internships such as Johns Hopkins University, MIT Media Lab, and University of Canterbury.
+Besides research, I like to travel. During work breaks, I enjoy trekking, exploring different places, and learning about different cultures across the globe. I play chess in my free time and have participated in national-level chess tournaments during my high school.
 
-In the near future I am interested to do a PhD in the field of HCI or Robotics.
+I aspire to become a research scientist and see myself working in a leading R&D organization in the future.
 
-### Found it interesting? Know more about me
+### Found it interesting? Know myself better...
 
 * [Portoflio Website](https://pkunjam.github.io/) 💼
 * <a href="https://www.linkedin.com/in/pkunjam/">
