@@ -2,11 +2,15 @@
 
 ### About me
 
-I graduated with a bachelor’s degree in computer science and engineering from the International Institute of Information Technology, Naya Raipur, India, in 2021. My research interests are primarily concerned with human-computer interaction (HCI) and focus on building novel immersive systems for the augmentation of brain function, improving people’s lives. I am also interested in developing simulation-based surgical training systems leveraging robotics and mixed reality technologies to provide surgeons with low-cost solutions for practicing surgical procedures in a virtual environment. I have worked with premier research institutions for my internships, such as **Johns Hopkins University (JHU), MIT Media Lab, and the University of Canterbury**. My research from MIT Media Lab and JHU has been published at prestigious venues, namely, **ACM SIGGRAPH and Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization**, received a monetary prize and outstanding paper award.
+Hello! I'm Punit Kunjam, currently a graduate student at the University of Waterloo, pursuing a Master of Mathematics in Computer Science with a fully funded scholarship. I anticipate graduating in August 2024 and am actively involved in research at the Haptic Experience Lab, affiliated with the Games Institute at the University of Waterloo. Under the guidance of Prof. Oliver Schneider, my work focuses on advancing the field of human-computer interaction (HCI).
 
-Besides research, I like to travel. During work breaks, I enjoy trekking, exploring different places, and learning about different cultures across the globe. I play chess in my free time and have participated in national-level chess tournaments during my high school.
+I earned my bachelor's degree in computer science and engineering from the International Institute of Information Technology, Naya Raipur, India, in 2021. Throughout my academic journey, my research interests have centred around HCI, particularly in creating innovative immersive systems to enhance the lives of individuals with disabilities. Additionally, I'm passionate about developing simulation-based surgical training systems, leveraging robotics and mixed-reality technologies. These systems aim to provide cost-effective solutions for surgeons to practice procedures in a virtual environment.
 
-I aspire to become a research scientist and see myself working in a leading R&D organization in the future.
+My prior research experiences include collaborations with esteemed institutions such as Johns Hopkins University (JHU), MIT Media Lab, and the University of Canterbury. Notably, my work from MIT Media Lab and JHU has been published in prestigious venues like ACM SIGGRAPH and Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization. I've received both a monetary prize and an outstanding paper award for my contributions.
+
+Beyond my academic pursuits, I have a keen interest in travel. During breaks, I indulge in trekking, exploring new places, and immersing myself in diverse cultures worldwide. In my free time, I enjoy playing chess and have participated in national-level tournaments during high school.
+
+Looking ahead, I aspire to become a research scientist and envision myself contributing to cutting-edge developments in leading research and development organizations.
 
 ### Found it interesting? Know myself better...
 
