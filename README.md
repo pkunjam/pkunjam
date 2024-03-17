@@ -2,15 +2,15 @@
 
 ### About me
 
-Hello! I'm Punit Kunjam, currently a graduate student at the University of Waterloo, pursuing a Master of Mathematics in Computer Science with a fully funded scholarship. I anticipate graduating in August 2024 and am actively involved in research at the Haptic Experience Lab, affiliated with the Games Institute at the University of Waterloo. Under the guidance of Prof. Oliver Schneider, my work focuses on advancing the field of human-computer interaction (HCI).
+I am a Computer Science graduate student specializing in game development, augmented & virtual reality, and haptics. I have a proven track record of research and development in haptic interaction and human-computer interfaces. Pursuing a Master of Mathematics in Computer Science at the University of Waterloo has equipped me with a deep understanding of technology and its application in creating immersive user experiences.
 
-I earned my bachelor's degree in computer science and engineering from the International Institute of Information Technology, Naya Raipur, India, in 2021. Throughout my academic journey, my research interests have centred around HCI, particularly in creating innovative immersive systems to enhance the lives of individuals with disabilities. Additionally, I'm passionate about developing simulation-based surgical training systems, leveraging robotics and mixed-reality technologies. These systems aim to provide cost-effective solutions for surgeons to practice procedures in a virtual environment.
+I have a unique blend of technical skills, creative problem-solving abilities, and a strong foundation in programming languages such as C#, C++, and JavaScript. I have hands-on expertise in Unity3D, CHAI3D, OpenGL, and similar game/graphics engines and frameworks, and have contributed to innovative projects that bridge the gap between technology and practical utility. My work spans developing video games, immersive haptics & VR-based simulations, and AR-based educational tools, showcasing my ability to innovate and push the boundaries of current technology.
 
-My prior research experiences include collaborations with esteemed institutions such as Johns Hopkins University (JHU), MIT Media Lab, and the University of Canterbury. Notably, my work from MIT Media Lab and JHU has been published in prestigious venues like ACM SIGGRAPH and Computer Methods in Biomechanics and Biomedical Engineering: Imaging and Visualization. I've received both a monetary prize and an outstanding paper award for my contributions.
+Apart from my technical skills, I am a committed team player and leader. I have led initiatives as a mentor and organized major events like gaming tournaments. My ability to communicate effectively, mentor peers, and successfully lead projects has been recognized in various professional settings.
 
-Beyond my academic pursuits, I have a keen interest in travel. During breaks, I indulge in trekking, exploring new places, and immersing myself in diverse cultures worldwide. In my free time, I enjoy playing chess and have participated in national-level tournaments during high school.
+I am passionate about the potential of AR/VR and haptic technologies to revolutionize how we interact with digital interfaces. I aim to create more intuitive, immersive, and beneficial user experiences. My ambition is to continue leveraging my skills in a challenging environment that fosters growth, innovation, and the opportunity to make significant contributions to the technology field.
 
-Looking ahead, I aspire to become a research scientist and envision myself contributing to cutting-edge developments in leading research and development organizations.
+My goal is to be at the forefront of technological advancement, contributing my expertise to projects that have a lasting impact.
 
 ### Found it interesting? Know myself better...
 
