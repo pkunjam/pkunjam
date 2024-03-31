@@ -14,6 +14,7 @@ My goal is to be at the forefront of technological advancement, contributing my 
 
 ### Found it interesting? Know myself better...
 
+* [Resume]<i class="bi bi-file-earmark-text"></i>
 * [Portoflio Website](https://pkunjam.github.io/) 💼
 * <a href="https://www.linkedin.com/in/pkunjam/">
   LinkedIn <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /> 
