@@ -14,10 +14,12 @@ My goal is to be at the forefront of technological advancement, contributing my 
 
 ### Found it interesting? Know myself better...
 
-* <a href="https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view">
+* <a href="https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view" target="_blank">
   Resume <img width="21px" src="https://github.com/pkunjam/pkunjam.github.io/blob/main/img/document.png" /> 
   </a>
-* [Portoflio Website](https://pkunjam.github.io/) 💼
-* <a href="https://www.linkedin.com/in/pkunjam/">
+* <a href="https://pkunjam.github.io/" target="_blank">
+  Portfolio Website 
+  </a>
+* <a href="https://www.linkedin.com/in/pkunjam/" target="_blank">
   LinkedIn <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /> 
   </a> 
