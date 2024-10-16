@@ -2,15 +2,13 @@
 
 ### About me
 
-I am a Computer Science graduate student specializing in game development, AR/VR/MR, graphics, and haptics. I have a proven track record of research and development in haptic interaction and human-computer interfaces. Pursuing a Master of Mathematics in Computer Science at the University of Waterloo has equipped me with a deep understanding of technology and its application in creating immersive user experiences.
+I am a Computer Science graduate with a Master of Mathematics from the University of Waterloo, specializing in XR (AR/VR/MR), computer graphics, game development, and haptics. I am passionate about leveraging AI to revolutionize XR technologies, creating transformative and immersive user experiences.
 
-I have a unique blend of technical skills, creative problem-solving abilities, and a strong foundation in programming languages such as C#, C++, and JavaScript. I have hands-on expertise in Unity3D, CHAI3D, OpenGL, and similar game/graphics engines and frameworks, and I have contributed to innovative projects that bridge the gap between technology and practical utility. My work spans developing video games, immersive haptics & VR-based simulations, and AR-based educational tools, showcasing my ability to innovate and push the boundaries of current technology.
+My unique blend of technical expertise, creative problem-solving, and experience with AI-driven XR solutions sets me apart. With a solid foundation in C#, C++, and JavaScript, I’ve developed and optimized immersive AR/VR simulations, haptics-based interaction systems, and game engines using tools such as Unity3D, OpenGL, and CHAI3D. These projects demonstrate my ability to push the boundaries of XR, integrating AI to make digital environments more interactive, personalized, and intelligent.
 
-Apart from my technical skills, I am a committed team player and leader. I have led initiatives as a mentor and organized major events like gaming tournaments. My ability to communicate effectively, mentor peers, and successfully lead projects has been recognized in various professional settings.
+In addition to my technical skills, I bring a strong collaborative spirit and leadership capabilities. I’ve led initiatives as a mentor, driven key projects in research settings, and organized major events. My focus is on bridging XR technologies with AI, allowing for more intuitive, adaptive, and accessible digital interfaces that can revolutionize industries from education to healthcare.
 
-I am passionate about the potential of AR/VR/MR and haptic technologies to revolutionize how we interact with digital interfaces. I aim to create more intuitive, immersive, and beneficial user experiences. My ambition is to continue leveraging my skills in a challenging environment that fosters growth, innovation, and the opportunity to make significant contributions to the technology field.
-
-My goal is to be at the forefront of technological advancement, contributing my expertise to projects that have a lasting impact.
+My goal is to leverage AI and XR to redefine human-computer interaction, bringing forth solutions that have the potential to reshape how we experience the digital world. I will continue innovating in this space, contributing to projects that not only challenge current limitations but also have a lasting impact on the future of immersive technology.
 
 ### Found it interesting? Know myself better...
 
