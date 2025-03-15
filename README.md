@@ -1,23 +1,45 @@
 <img src="https://github.com/pkunjam/pkunjam/blob/master/punit.jpg" width="800" />
 
-### About me
+# 👋 Hello, I'm Punit!  
 
-I am a Computer Science graduate with a Master of Mathematics from the University of Waterloo, specializing in XR (AR/VR/MR), computer graphics, game development, and haptics. I am passionate about leveraging AI to revolutionize XR technologies, creating transformative and immersive user experiences.
+I am a **Computer Science graduate** with a **Master of Mathematics** from the **University of Waterloo**, specializing in **AI, XR (AR/VR), Computer Graphics, and Game Development**. My passion lies in building **intelligent, immersive, and visually compelling applications** at the intersection of:  
 
-My unique blend of technical expertise, creative problem-solving, and experience with AI-driven XR solutions sets me apart. With a solid foundation in C#, C++, and JavaScript, I’ve developed and optimized immersive AR/VR simulations, haptics-based interaction systems, and game engines using tools such as Unity3D, OpenGL, and CHAI3D. These projects demonstrate my ability to push the boundaries of XR, integrating AI to make digital environments more interactive, personalized, and intelligent.
+- **3D Graphics & Real-Time Rendering**  
+- **Physics-Based Simulations**  
+- **AI-Driven Systems**  
+- **Digital Twins & Interactive Worlds**  
 
-In addition to my technical skills, I bring a strong collaborative spirit and leadership capabilities. I’ve led initiatives as a mentor, driven key projects in research settings, and organized major events. My focus is on bridging XR technologies with AI, allowing for more intuitive, adaptive, and accessible digital interfaces that can revolutionize industries from education to healthcare.
+---
 
-My goal is to leverage AI and XR to redefine human-computer interaction, bringing forth solutions that have the potential to reshape how we experience the digital world. I will continue innovating in this space, contributing to projects that not only challenge current limitations but also have a lasting impact on the future of immersive technology.
+## 💡 What I Do  
 
-### Found it interesting? Know myself better...
+- 🚀 **Computer Graphics & Game Engines** – Designing and optimizing real-time rendering techniques, procedural generation, and physics-based simulations.  
+- 🤖 **AI for Interactive Systems** – Integrating AI into XR, simulation, and gaming applications to solve real-world problems.  
+- 🕶️ **XR & Spatial Computing** – Developing immersive interfaces, haptic feedback systems, and interactive applications.  
+- ⚡ **High-Performance Software Development** – Writing optimized **C++** code for scalable and efficient real-time applications.  
 
-* <a href="https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view" target="_blank">
-  Resume <img width="21px" src="https://github.com/pkunjam/pkunjam.github.io/blob/main/img/document.png" /> 
-  </a>
-* <a href="https://pkunjam.github.io/" target="_blank">
-  Portfolio Website 
-  </a>
-* <a href="https://www.linkedin.com/in/pkunjam/" target="_blank">
-  LinkedIn <img width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" /> 
-  </a> 
+---
+
+## 🔹 Key Projects & Impact  
+
+- **ThinkRealm** – A platform unifying parametric design, simulation, and data-driven perception across core engineering fields, redefining computational design.  
+- **Confluent AI** – A system enabling **natural language-driven terrain modification** for game designers, blending AI with real-time graphics.  
+- **EchoLore VR** – An **interactive VR storytelling platform** with haptic feedback for enhanced emotional engagement in virtual learning experiences.  
+
+---
+
+## 🌎 My Vision  
+
+I envision a future where **AI and XR seamlessly converge** to create **intelligent, immersive, and interactive digital experiences**. My goal is to develop systems that **bridge the gap between physical and virtual worlds** through **real-time simulation, AI-driven environments, and spatial computing**.  
+
+Whether it's **AI-powered digital twins** or **next-generation XR applications**, I strive to push technological boundaries and unlock new possibilities in **engineering, simulation, and healthcare**.  
+
+---
+
+## 📬 Let's Connect!  
+
+🚀 Feel free to reach out and explore how **AI & XR** can shape the future!  
+
+🔗 [LinkedIn]([#](https://www.linkedin.com/in/pkunjam/)) • 📄 [Resume]([#](https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view)) • 🌐 [Portfolio]([#](https://pkunjam.github.io/))  
+
+---
