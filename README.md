@@ -40,6 +40,6 @@ Whether it's **AI-powered digital twins** or **next-generation XR applications**
 
 🚀 Feel free to reach out and explore how **AI & XR** can shape the future!  
 
-🔗 [LinkedIn]([#](https://www.linkedin.com/in/pkunjam/)) • 📄 [Resume]([#](https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view)) • 🌐 [Portfolio]([#](https://pkunjam.github.io/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/pkunjam/) • 📄 [Resume](https://drive.google.com/file/d/1Qg6lt1iTU_d3K1fpMmtJcjSpfZxKr5nS/view) • 🌐 [Portfolio](https://pkunjam.github.io/)  
 
 ---
